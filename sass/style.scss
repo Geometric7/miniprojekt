@@ -10,6 +10,29 @@ section:first-of-type {
   width: 100%;
 }
 
+.btn {
+  display: inline-block;
+  min-width: 180px;
+  margin: 24px auto 0 auto;
+  padding: 16px;
+  border-radius: 5px;
+  font-family: 'Prompt';
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border-width: 2px;
+  border-style: solid;
+  background-color: inherit;
+  background-position: 100% 0;
+  background-size: 300%;
+  transition: all 1s;
+}
+
+.golden-button {
+  display: inline-flex;
+}
+
 /*Navigation*/
 .navigation {
   font-family: Prompt;
@@ -90,5 +113,24 @@ h2 {
   text-align: center;
   margin-top: 0;
   margin-bottom: 0;
+}
+
+/*Buttons*/
+.btn-golden {
+  border: none;
+  color: yellow;
+  font-family: Lobster;
+  font-size: 36px;
+  position: relative;
+  left: 85px;
+}
+
+.btn-one {
+  border-color: #ebd457;
+  color: #fff;
+  background: #ebd452;
+  display: flex;
+  width: 230px;
+  justify-content: center;
 }
   
