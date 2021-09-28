@@ -212,4 +212,41 @@ img {
   background: #fff;
   height: 80px;
 }
+
+/*Footer*/
+.footer-text{
+  width: 300px;
+  height: 20px;
+  position: relative;
+  top: 45px;
+  left: 100px;
+}
+.footer {
+  max-width: 1140px;
+  margin: 0 auto;
+  
+}
+
+.footer ul {
+  text-align: center;
+  padding: 0;
+}
+
+.footer ul li {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+}
+
+.footer ul li i {
+  font-size: 30px;
+  width: 30px;
+  height: 30px;
+  color: #050505;
+  
+}
+
+.footer ul li a {
+  font-size: 0;
+}
   
