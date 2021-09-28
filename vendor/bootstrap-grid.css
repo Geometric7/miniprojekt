@@ -15,6 +15,10 @@ html {
   box-sizing: inherit;
 }
 
+section{
+  max-height: 1000px;
+}
+
 .container {
   width: 100%;
   padding-right: 15px;
@@ -26,6 +30,7 @@ html {
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
+    flex-direction: column;
   }
 }
 
