@@ -133,4 +133,47 @@ h2 {
   width: 230px;
   justify-content: center;
 }
+
+/* Services*/
+.page-title {
+  font-size: 50px;
+  font-family: Prompt;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.page-subtitle {
+  font-size: 36px;
+  font-family: Unna;
+  color: gray;
+  text-align: center;
+  margin-top: 0;
+}
+
+.box-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center ;
+  align-items: center;
+  max-width: 100%;
+}
+
+.box-one {
+  flex: 0 0 33.333%;
+  justify-content: center;
+  position: relative;
+  max-width: 250px;
+  margin: 15px;
+}
+
+.icon {
+  color: #ebd452;
+  font-size: 50px;
+  text-align: center;
+  width: 250px;
+}
+
+.row {
+  margin-bottom: 76px;
+}
   
