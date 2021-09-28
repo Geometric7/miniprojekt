@@ -1,2 +1,12 @@
+/*Here we goo*/
+body {
+  margin: 0;
+}
 
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
+section:first-of-type {
+  background-image: url("https://images.pexels.com/photos/3184464/pexels-photo-3184464.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-size: cover;
+  height: 800px;
+  width: 100%;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxjQUFBO0FBQ0E7RUFDRSxTQUFTO0FDQ1g7O0FERUE7RUFDRSx1SUFBdUk7RUFDdkksc0JBQXNCO0VBQ3RCLGFBQWE7RUFDYixXQUFXO0FDQ2IiLCJmaWxlIjoic3R5bGUuY3NzIn0= */
