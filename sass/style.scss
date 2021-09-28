@@ -67,4 +67,28 @@ section:first-of-type {
 .navigation ul li:hover ul {
   display: block;
 }
+
+/*Header*/
+.header {
+  min-height: 500px;
+  position: relative;
+  top: 90px;
+}
+
+h1 {
+  font-family: Unna;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-family: Prompt;
+  font-size: 80px;
+  color: white;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+}
   
